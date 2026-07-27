@@ -1,33 +1,31 @@
-# Day 1
+# Day 01
 
-## Lesson
+## Date
+July 27, 2026
 
+## Course
 Course 1 - Foundations of Cybersecurity
 
-## Topics Covered
+## Lessons Completed
 
 -
 
--
+## Key Concepts
 
 -
 
-## Key Terms
+## New Terms
 
 -
 
--
+## My Notes
 
 -
-
-## What I Learned
-
-...
 
 ## Questions
 
-...
+-
 
 ## Summary
 
-...
+-
