@@ -1,10 +1,13 @@
 # Certifications
 
-## In Progress
+## Google Cybersecurity Professional Certificate
 
-- Google Cybersecurity Professional Certificate
+### Course 1 – Foundations of Cybersecurity
 
-## Planned
+- Provider: Google via Coursera
+- Status: ✅ Completed
+- Completion Date: May 18, 2024
 
-- ISC2 Certified in Cybersecurity
-- CompTIA Security+
+### Certificate
+
+[📄 View Certificate](certificates/Google_Foundations_of_Cybersecurity.pdf)
