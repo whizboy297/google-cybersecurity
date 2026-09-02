@@ -1,42 +1,44 @@
-# Course 2 – Play It Safe: Manage Security Risks
+# Course 2 — Play It Safe: Manage Security Risks
 
-## Overview
+**Provider:** Google  
+**Platform:** Coursera  
+**Completed:** September 2, 2026  
+**Final Grade:** 92.57%  
+**Status:** Completed ✅
 
-This course focuses on identifying, assessing, and managing cybersecurity risks.
+## What I Learned
 
-## Topics Covered
+This course introduced important cybersecurity risk-management concepts, including:
 
-- Security frameworks and controls
-- Security risks, threats, and vulnerabilities
 - CISSP's eight security domains
-- Security audits and assessments
-- Basic security tools
-- Protecting assets and data
-- The NIST Risk Management Framework (RMF)
+- Threats, risks, and vulnerabilities
+- CIA triad
+- NIST Cybersecurity Framework
+- Security frameworks and controls
+- Security audits
+- Administrative, technical, and physical controls
+- Security logs
+- SIEM tools
+- SIEM dashboards
+- Open-source and proprietary security tools
+- SIEM deployment types
+- Incident response
+- Security playbooks
 
 ## Course Progress
 
-- [x] Course introduction
-- [ ] Day 1
-- [ ] Day 2
-- [ ] Day 3
-- [ ] Day 4
-- [ ] Day 5
+- Day 1 — Completed ✅
+- Day 2 — Completed ✅
+- Day 3 — Completed ✅
 
-## Key Framework
+## Certificate
 
-### NIST Risk Management Framework (RMF)
+Google Cybersecurity Professional Certificate course:
 
-The seven steps of the RMF are:
+**Play It Safe: Manage Security Risks**
 
-1. Prepare
-2. Categorize
-3. Select
-4. Implement
-5. Assess
-6. Authorize
-7. Monitor
+Final grade: **92.57%**
 
-## Status
+## Key Learning
 
-🚧 In Progress
+A major focus of this course was understanding how organizations identify and manage security risks and how security teams use tools such as SIEM platforms and playbooks to detect, investigate, and respond to security incidents.
