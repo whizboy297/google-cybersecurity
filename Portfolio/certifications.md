@@ -4,7 +4,7 @@ This page contains the professional certifications I have earned as part of my c
 
 ## Google Cybersecurity Professional Certificate
 
-### Course 1 – Foundations of Cybersecurity
+### Course 1 — Foundations of Cybersecurity
 
 - **Provider:** Google via Coursera
 - **Status:** ✅ Completed
@@ -27,4 +27,32 @@ This page contains the professional certifications I have earned as part of my c
 
 ---
 
-*Additional Google Cybersecurity Professional Certificate course completions will be added here as I progress through the program.*
+### Course 2 — Play It Safe: Manage Security Risks
+
+- **Provider:** Google via Coursera
+- **Status:** ✅ Completed
+- **Completion Date:** September 2, 2026
+- **Final Grade:** **92.57%**
+
+### Skills Covered
+
+- CISSP's eight security domains
+- Security frameworks and controls
+- Security audits
+- Security logs
+- SIEM tools and dashboards
+- Open-source and proprietary security tools
+- SIEM deployment types
+- Incident response
+- Security playbooks
+- Threat, risk, and vulnerability management
+
+### Certificate
+
+📄 [View Certificate](certificates/Google_Play_It_Safe_Manage_Security_Risks.pdf)
+
+🔗 [Verify Certificate on Coursera](https://coursera.org/share/97ae1d19bcb2712ba091c943c2ef0e0e)
+
+---
+
+More certifications and cybersecurity achievements will be added as I continue my learning journey.
