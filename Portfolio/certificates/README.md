@@ -32,4 +32,32 @@ This folder contains certificates I have earned while studying cybersecurity.
 
 ---
 
+#### Course 3 — Connect and Protect: Networks and Network Security
+
+- **Provider:** Google via Coursera
+- **Status:** ✅ Completed
+- **Completion Date:** October 13, 2026
+
+**Skills Covered**
+
+- Network security fundamentals
+- Network protocols and traffic
+- Common network attacks, including denial-of-service (DoS) attacks
+- Firewalls and port filtering
+- Network segmentation
+- Operating system and network security hardening
+- Cloud security
+- Intrusion Detection and Prevention Systems (IDS/IPS)
+- Security Information and Event Management (SIEM)
+- Security audits and penetration testing
+- Incident response
+- NIST Cybersecurity Framework (CSF)
+
+**Certificate**
+
+- [Google Connect and Protect: Networks and Network Security](Google_Connect_and_Protect_Networks_and_Network_Security.pdf)
+- [Verify Certificate on Coursera](https://coursera.org/verify/YCTTFQH8F9C7)
+
+---
+
 More certificates will be added as I continue my cybersecurity learning journey.
